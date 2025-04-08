@@ -321,7 +321,7 @@ function BlogPost() {
 // Main App component with routing
 function App() {
   return (
-    <Router basename="/blog-app">
+    <Router basename="/0xAtom">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/blog/:id" element={<BlogPost />} />
