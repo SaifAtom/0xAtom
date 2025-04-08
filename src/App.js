@@ -186,7 +186,7 @@ function Home() {
   return (
     <AppContainer>
       <Header>
-        <h1>0xSecurity</h1>
+        <h1>Saif Sghaier</h1>
         <Nav>
           <NavLink to="#welcome" onClick={(e) => {e.preventDefault(); scrollToSection('welcome')}}>Home</NavLink>
           <NavLink to="#about" onClick={(e) => {e.preventDefault(); scrollToSection('about')}}>About Me</NavLink>
