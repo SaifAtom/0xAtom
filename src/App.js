@@ -196,7 +196,7 @@ function Home() {
       </Header>
       {/* Welcome Section */}
       <Section id="welcome">
-        <h2>Welcome to 0xSecurity</h2>
+        <h2>Welcome to 0xAtom</h2>
         <div>
           <p>Your source for cybersecurity insights, tutorials, and best practices.</p>
           <p>Browse through the sections to learn more about me, my career in cybersecurity, and read my latest posts on security topics.</p>

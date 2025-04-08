@@ -1,7 +1,7 @@
 {
   "name": "0xatom",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://saifatom.github.io/0xAtom",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
