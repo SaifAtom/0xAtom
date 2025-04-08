@@ -186,7 +186,7 @@ function Home() {
   return (
     <AppContainer>
       <Header>
-        <h1>Saif Sghaier</h1>
+        <h1>0xAtom -Saif Sghaier</h1>
         <Nav>
           <NavLink to="#welcome" onClick={(e) => {e.preventDefault(); scrollToSection('welcome')}}>Home</NavLink>
           <NavLink to="#about" onClick={(e) => {e.preventDefault(); scrollToSection('about')}}>About Me</NavLink>
@@ -194,7 +194,6 @@ function Home() {
           <NavLink to="#blog" onClick={(e) => {e.preventDefault(); scrollToSection('blog')}}>Blog Posts</NavLink>
         </Nav>
       </Header>
-      
       {/* Welcome Section */}
       <Section id="welcome">
         <h2>Welcome to 0xSecurity</h2>
